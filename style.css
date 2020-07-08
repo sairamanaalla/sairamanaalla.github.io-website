@@ -1,0 +1,138 @@
+.bg-pic{
+
+  background-image: url("download5.jpg");
+  min-height: 800px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  background: static;
+}
+.navbar-toggler{
+    width: 47px;
+    height: 34px;
+    background-color: #7eb444;
+    border:none;
+}
+.navbar-toggler .line{
+    width: 100%;
+    float: left;
+    height: 2px;
+    background-color: #fff;
+    margin-bottom: 5px;
+}
+
+
+.bg-pic .content{
+  position: absolute;
+  bottom: 0;
+  background: rgb(0,0,0);
+  background: rgba(0,0,0,0.5);
+  width: 100%;
+  padding: 20px;
+}
+.heading{
+  text-align: center;
+  font-size: 3rem;
+  color: yellow;
+
+}
+.chinese-footer{
+  color: #fff;
+  font-size: 2rem;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.content{
+  color: #fff;
+  float: left;
+}
+.content2{
+  color: #fff;
+
+}
+sub{
+  font-size: 4rem;
+}
+.meat{
+  text-align: center;
+}
+.piece{
+  height:10%;
+}
+.clean{
+  margin: 10% 7% 5% 10%;
+  text-align: center;
+}
+.talk{
+
+  height:350px;
+}
+.pic2{
+  height:200px;
+  float: right;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.text2{
+  padding-left: 150px;
+  height:350px;
+}
+.testimonials{
+ text-align: center;
+ background-color:#cd853f;
+ padding-top: 5%;
+ padding-bottom: 5%;
+}
+.testimonial-image{
+  border-radius: 100%;
+  height: 10%;
+  width: 10%;
+  text-align: center;
+  margin-right: 8%;
+}
+.testimonial-text{
+  margin: 0 10% 0 10%;
+}
+.final{
+  padding-top: 5%;
+  padding-bottom: 7%;
+  text-align: center;
+  letter-spacing: 5px;
+}
+.bird{
+  padding-top: 75px;
+  letter-spacing: 3px;
+  line-height: 6rem;
+}
+.list{
+  text-decoration: none;
+  font-size: 4rem;
+  color: #fff;
+}
+.mock1{
+  width: 90%;
+  height:100%;
+}
+.faq-main{
+  text-align: center;
+  padding-bottom: 80px;
+  padding-top: 40px;
+}
+.faq-que1{
+  text-align: left;
+  float:left;
+  padding-left: 50px;
+}
+.faq-que2{
+  text-align: right;
+  float: right;
+  padding-right: 50px;
+}
+.address{
+  padding-left: 100px;
+  float: left;
+  background-color: #cd853f;
+  width: 100%;
+}
